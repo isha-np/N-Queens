@@ -3,6 +3,7 @@ The n-queens puzzle is the problem of placing n queens on an n x n chessboard su
 Given an integer n, return the number of distinct solutions to the n-queens puzzle.
 
 EXAMPLE 1:
+
 ![alt-text](https://github.com/isha-np/N-Queens/blob/main/nqueens.JPG)
 
 INPUT: n = 4
